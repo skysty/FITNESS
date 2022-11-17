@@ -1,0 +1,13 @@
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\bin\Debug\FITNESS.exe.config
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\bin\Debug\FITNESS.exe
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\bin\Debug\FITNESS.pdb
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.csprojAssemblyReference.cache
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.Properties.Resources.resources
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.csproj.GenerateResource.cache
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.csproj.CoreCompileInputs.cache
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.exe
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.pdb
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.Welcome.resources
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.Sign.resources
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.Registr.resources
+C:\Users\Nurramazan\Desktop\FITNESS\FITNESS\FITNESS\obj\Debug\FITNESS.Home_page.resources
